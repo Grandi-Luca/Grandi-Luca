@@ -14,7 +14,7 @@ I'm a third year student in Computer Science and Engineering at the Alma Mater S
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
-<img alt="docker" src="https://img.shields.io/badge/docker%20-%0073ec.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="docker" src="https://img.shields.io/badge/docker%20-%230073EC.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 
 #### Frameworks
@@ -30,8 +30,7 @@ I'm a third year student in Computer Science and Engineering at the Alma Mater S
 
 ### ⚙️ &nbsp;Analytics
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Grandi-Luca&theme=algolia&layout=compact&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandi-Luca&layout=compact&theme=algolia&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Grandi-Luca&theme=algolia&layout=compact&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandi-Luca&layout=compact&theme=algolia&show_icons=true)
   
 <!-- NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
 
