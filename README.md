@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LucaGrandi115)
 
 <!-- Introduction -->
-I'm a third year student in Computer Science and Engineering at the Alma Mater Studiorum - University of Bologna
+I'm graduated in Computer Science and Engineering at the Alma Mater Studiorum - University of Bologna
 
 * How to reach me: luca.grandi115@gmail.com
 
@@ -15,6 +15,7 @@ I'm a third year student in Computer Science and Engineering at the Alma Mater S
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 <img alt="docker" src="https://img.shields.io/badge/docker%20-%230073EC.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%23ED8B00.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 
 #### Frameworks
@@ -24,16 +25,11 @@ I'm a third year student in Computer Science and Engineering at the Alma Mater S
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" href="https://www.github.com/saribricka"/>
 
 #### Operating Systems
-
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img alt="macos" src="https://img.shields.io/badge/apple%20-%23F05033?style=for-the-badge&logo=apple&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
 ### ⚙️ &nbsp;Analytics
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Grandi-Luca&theme=algolia&layout=compact&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandi-Luca&layout=compact&theme=algolia&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Grandi-Luca&show_icons=true&theme=ayu-mirage)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandi-Luca&layout=compact&theme=ayu-mirage&show_icons=true)
   
 <!-- NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-
-</a>
-</p>
-
